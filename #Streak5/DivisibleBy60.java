@@ -1,4 +1,4 @@
-
+import java.util.*;
 public class DivisibleBy60 {
     public int divisibleBy60(ArrayList<Integer> A) {
         if(A.size() == 1 && A.get(0) ==  0){
