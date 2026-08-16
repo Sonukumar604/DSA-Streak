@@ -20,4 +20,5 @@ public class IsPalindrome {
         } else {
             return 0;
         }
+    }
 }
