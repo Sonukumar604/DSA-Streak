@@ -1,5 +1,7 @@
 public class KthPermutation {
-    ArrayList<Integer> result = new ArrayList<>();
+    public ArrayList<Integer> findPerm(int A, long B) {
+        
+        ArrayList<Integer> result = new ArrayList<>();
         ArrayList<Integer> numbers = new ArrayList<>();
 
         // Fill numbers list with 1 to A
